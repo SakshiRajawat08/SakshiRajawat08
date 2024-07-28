@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 # 🌟Hey, I am Sakshi Rajawat<br>
-📚I am currently learning cypress, selenium ...
+📚I am currently learning cypress, selenium ...<br>
 📧 How to reach me  rajawatsakshi400@gmail.com 
 
   
