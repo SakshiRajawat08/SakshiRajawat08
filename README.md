@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5612AQFj2AQ2QpiXDA/article-cover_image-shrink_720_1280/0/1679764228834?e=2147483647&v=beta&t=sNt82Ue7CNm7badCPi4zaJKDpUH2Og9gBGzd_BHZSDs)
 <h1 align="center">Hi 👋, I'm Sakshi Rajawat</h1>
-<h3 align="center">🌟Passionate about Automation Testing🌟</h3>
+<h3 align="center">🌟Software Engineer in Test🌟</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
